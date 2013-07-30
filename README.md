@@ -1,7 +1,7 @@
 praxis
 ======
 
-# ProgrammingPraxis problems (http://programmingpraxis.com/)
+### ProgrammingPraxis problems (http://programmingpraxis.com/)
 
 This is simply a collection of coding problems I solve from
 time to time to keep up with languages I haven't used in a 
