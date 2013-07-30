@@ -1,0 +1,252 @@
+Playing game 0 with 1 boards.
+Starting board
+6   28   44   54   68   
+10   26   41   51   72   
+11   23   -1   59   66   
+12   29   35   50   62   
+7   18   43   49   67   
+first drawn number is 71
+
+calling 71
+first drawn number is 55
+
+calling 55
+first drawn number is 29
+
+calling 29
+first drawn number is 1
+
+calling 1
+first drawn number is 11
+
+calling 11
+first drawn number is 24
+
+calling 24
+first drawn number is 57
+
+calling 57
+first drawn number is 7
+
+calling 7
+first drawn number is 61
+
+calling 61
+first drawn number is 61
+
+
+61 was already called. Trying to find new_rand -> 39
+
+Printing all board's states.
+Board 0
+
+6   28   44   54   68   
+10   26   41   51   72   
+-1   23   -1   59   66   
+12   -1   35   50   62   
+-1   18   43   49   67   
+calling 39
+first drawn number is 75
+
+calling 75
+first drawn number is 30
+
+calling 30
+first drawn number is 48
+
+calling 48
+first drawn number is 44
+
+calling 44
+first drawn number is 17
+
+calling 17
+first drawn number is 70
+
+calling 70
+first drawn number is 65
+
+calling 65
+first drawn number is 6
+
+calling 6
+first drawn number is 37
+
+calling 37
+first drawn number is 66
+
+calling 66
+first drawn number is 64
+
+calling 64
+first drawn number is 20
+
+calling 20
+first drawn number is 70
+
+
+70 was already called. Trying to find new_rand -> 52
+
+Printing all board's states.
+Board 0
+
+-1   28   -1   54   68   
+10   26   41   51   72   
+-1   23   -1   59   -1   
+12   -1   35   50   62   
+-1   18   43   49   67   
+calling 52
+first drawn number is 34
+
+calling 34
+first drawn number is 43
+
+calling 43
+first drawn number is 55
+
+
+55 was already called. Trying to find new_rand -> 54
+
+Printing all board's states.
+Board 0
+
+-1   28   -1   54   68   
+10   26   41   51   72   
+-1   23   -1   59   -1   
+12   -1   35   50   62   
+-1   18   -1   49   67   
+calling 54
+first drawn number is 29
+
+
+29 was already called. Trying to find new_rand -> 16
+
+Printing all board's states.
+Board 0
+
+-1   28   -1   -1   68   
+10   26   41   51   72   
+-1   23   -1   59   -1   
+12   -1   35   50   62   
+-1   18   -1   49   67   
+calling 16
+first drawn number is 26
+
+calling 26
+first drawn number is 9
+
+calling 9
+first drawn number is 22
+
+calling 22
+first drawn number is 27
+
+calling 27
+first drawn number is 19
+
+calling 19
+first drawn number is 45
+
+calling 45
+first drawn number is 60
+
+calling 60
+first drawn number is 2
+
+calling 2
+first drawn number is 7
+
+
+7 was already called. Trying to find new_rand -> 46
+
+Printing all board's states.
+Board 0
+
+-1   28   -1   -1   68   
+10   -1   41   51   72   
+-1   23   -1   59   -1   
+12   -1   35   50   62   
+-1   18   -1   49   67   
+calling 46
+first drawn number is 41
+
+calling 41
+first drawn number is 7
+
+
+7 was already called. Trying to find new_rand -> 52
+
+Printing all board's states.
+Board 0
+
+-1   28   -1   -1   68   
+10   -1   -1   51   72   
+-1   23   -1   59   -1   
+12   -1   35   50   62   
+-1   18   -1   49   67   
+
+52 was already called. Trying to find new_rand -> 13
+
+Printing all board's states.
+Board 0
+
+-1   28   -1   -1   68   
+10   -1   -1   51   72   
+-1   23   -1   59   -1   
+12   -1   35   50   62   
+-1   18   -1   49   67   
+calling 13
+first drawn number is 27
+
+
+27 was already called. Trying to find new_rand -> 68
+
+Printing all board's states.
+Board 0
+
+-1   28   -1   -1   68   
+10   -1   -1   51   72   
+-1   23   -1   59   -1   
+12   -1   35   50   62   
+-1   18   -1   49   67   
+calling 68
+first drawn number is 7
+
+
+7 was already called. Trying to find new_rand -> 68
+
+Printing all board's states.
+Board 0
+
+-1   28   -1   -1   -1   
+10   -1   -1   51   72   
+-1   23   -1   59   -1   
+12   -1   35   50   62   
+-1   18   -1   49   67   
+
+68 was already called. Trying to find new_rand -> 73
+
+Printing all board's states.
+Board 0
+
+-1   28   -1   -1   -1   
+10   -1   -1   51   72   
+-1   23   -1   59   -1   
+12   -1   35   50   62   
+-1   18   -1   49   67   
+calling 73
+first drawn number is 20
+
+
+20 was already called. Trying to find new_rand -> 35
+
+Printing all board's states.
+Board 0
+
+-1   28   -1   -1   -1   
+10   -1   -1   51   72   
+-1   23   -1   59   -1   
+12   -1   35   50   62   
+-1   18   -1   49   67   
+calling 35
+The average number of calls require to reach bingo across all games was 41.000000.

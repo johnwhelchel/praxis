@@ -1,0 +1,7 @@
+
+Sudoku
+February 19, 2009
+
+Sudoku puzzles are a simple and popular amusement given as a nine-by-nine grid of cells, some of them containing digits:
+
+Write a program to solve sudoku puzzles; your program may assume the puzzle is well-formed. What is the solution of the above puzzle?

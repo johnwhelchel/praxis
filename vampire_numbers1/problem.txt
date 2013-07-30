@@ -1,0 +1,7 @@
+July 16, 2013
+
+We have today a problem from recreational mathematics.
+
+A vampire number is a number v = x × y such that x and y are not both divisible by 10 and the digits of v consist of the digits of x and the digits of y. The number of digits n in the vampire number must be even, and the number of digits in each of the two fangs x and y must be half the number of digits in v. For instance 1260 = 21 × 60 and 1395 = 15 × 93 are both vampire numbers.
+
+Your task is to write a program that calculates the vampire numbers of n digits. When you are finished, you are welcome to read or run a suggested solution, or to post your own solution or discuss the exercise in the comments below.
