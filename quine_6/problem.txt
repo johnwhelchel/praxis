@@ -1,0 +1,5 @@
+
+A Self-Reproducing Program
+February 20, 2009
+
+Write a program that takes no input and generates a copy of its own source text as its complete output.
